@@ -1,13 +1,13 @@
 			  {Device }
 
 |---------------------------------------------------------------------|
-| /data/data/com.termux/files/home/Cracker-Tool/.git/refs/heads/main  |
+| /data/data/com.termux/files/home/Cracker-X/.git/refs/heads/main  |
 |---------------------------------------------------------------------|
 
 
 		Change in every cloning
 		+++++++++++++++++++++++
-      9		1	1	1	8	1
+      7		6	7	0	1	0
 
 ***********************************************************************
 
