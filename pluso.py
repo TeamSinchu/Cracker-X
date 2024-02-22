@@ -1,5 +1,5 @@
-# Coded by cracker 
-# CRACKER911181  
+# Coded by TeamSinchu
+# TeamSinchu07
  
 
 import base64, codecs
