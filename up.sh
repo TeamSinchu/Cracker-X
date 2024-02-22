@@ -1,11 +1,11 @@
 cd
-rm -rf $HOME/Cracker-Tool
+rm -rf $HOME/Cracker-X
 echo 
 echo "	Tool Updating"
 echo
 
-git clone https://github.com/cracker911181/Cracker-Tool
-cd Cracker-Tool
+git clone https://github.com/TeamSinchu/Cracker-X
+cd Cracker-X
 
 echo
 echo "		updated"
