@@ -3,17 +3,17 @@
 #        main         # MAIN FILE
 #                     #
 #####################################
-#  Author: Cracker911181 ############
+#  Author: TeamSinchu ############
 #####################################
 #                            #
-#   CODER :  CRACKER911181   #
+#   CODER :  TeamSinchu  #
 #                            #
 ##############################
 
 
 
-# Coded by Cracker
-# CRACKER911181
+# Coded by TeamSinchu
+# TeamSinchu07
 
 
 
