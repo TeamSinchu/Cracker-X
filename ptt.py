@@ -1,5 +1,5 @@
-# Coded by Cracker
-# CRACKER911181
+# Coded by TeamSinchu
+# TeamSinchu07
  
 
 grn="\x1b[92m" 
